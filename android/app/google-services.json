@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828743577452",
+    "project_id": "yme-store",
+    "storage_bucket": "yme-store.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828743577452:android:a2bba332c54facd8bb8d49",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCapQ7vr1so3HsEWd3fZw5VzWQ8u6NN4bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
